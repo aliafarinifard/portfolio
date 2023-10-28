@@ -119,6 +119,12 @@ svg {
     height: auto;
 }
 
+.projects-br {
+    display: block;
+    text-align: center;
+    font-size: .9rem;
+}
+
 
 /* 
 *  #___REUSABLE CSS CLASSES
